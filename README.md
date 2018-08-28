@@ -1,5 +1,5 @@
-##AppStoreTodayAnimation
-####高仿iOS应用Appstore首页today转场动画
+# AppStoreTodayAnimation
+## 高仿iOS应用Appstore首页today转场动画
 ___
 > 效果示意图
 ![实例图片](https://github.com/baozoudiudiu/AppStoreTodayAnimation/blob/master/AppStoreListTest/example.gif?raw=true)
