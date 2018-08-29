@@ -176,7 +176,7 @@ extension NextViewController {
                 if present >= 0.9
                 {
                     self.contentView.transform = CGAffineTransform.identity
-                     self.contentView.layer.cornerRadius = 0
+                    self.contentView.layer.cornerRadius = 0
                     self.dismiss(animated: true, completion: nil)
                 }
                 else
@@ -200,9 +200,7 @@ extension NextViewController {
         
         let point = gesture.translation(in: self.view)
         
-        print("\(point)")
-        
-        let height = self.view.frame.size.height  * 0.35
+        let height = self.view.frame.size.height  * 0.26
         
         let y = point.y
         
